@@ -1,0 +1,20 @@
+[{
+    "type": "Food",
+    "desc": "Green fruit",
+    "price": "1"
+},
+{
+    "type": "Sneakers",
+    "desc": "Nike Vapor Fly",
+    "price": "150"   
+},
+{
+    "type": "Food",
+    "desc": "Banana",
+    "price": "5.5"
+},
+{
+    "type": "Television",
+    "desc": "LG OLED",
+    "price": "1500"
+}]
