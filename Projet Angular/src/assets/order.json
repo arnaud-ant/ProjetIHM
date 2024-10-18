@@ -1,0 +1,18 @@
+[{
+    "category": "Electronics",
+    "total": 100,
+    "date": "20th November 2022",
+    "customer": "Jean Pierre Tyson"
+},
+{
+    "category": "IT computing",
+    "total": 120,
+    "date": "11th September 2020",
+    "customer": "David Michigan"
+},
+{
+    "category": "Food",
+    "total": 10,
+    "date": "15th January 2021",
+    "customer": "Pierre Paul"
+}]

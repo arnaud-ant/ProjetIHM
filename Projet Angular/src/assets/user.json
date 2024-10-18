@@ -1,0 +1,17 @@
+[{
+    "type": "Customer",
+    "name": "Jean Tyson",
+    "place": "a random IT company"
+},
+{
+    "type": "Boss",
+    "name": "Marc Lavague",
+    "place": "Carrefour  "
+
+},
+{
+    "type": "Employee",
+    "name": "Michel Delpeche",
+    "place": "Carrefour "
+
+}]
